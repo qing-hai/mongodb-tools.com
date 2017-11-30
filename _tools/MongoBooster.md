@@ -1,6 +1,6 @@
 ---
 # Tool name
-name: MongoBooster
+name: NoSQLBooster for MongoDB (formerly MongoBooster)
 
 # Software language (if applicable, see _data/attr.yml)
 language: Javascript
@@ -15,7 +15,7 @@ maintained: Actively Maintained
 support: https://mongobooster.useresponse.com/
 
 # homepage url
-officialUrl: http://mongobooster.com
+officialUrl: https://nosqlbooster.com
 
 # supported operating systems (if applicable)
 environments:
@@ -42,14 +42,14 @@ mongodb_enterprise_support: Full
 purpose: GUI
 
 # Short description of tool
-description: MongoBooster is a shell-centric cross-platform GUI which includes features such as update-in-place, Lodash & Moment.js integration, ES6 syntax support, and code completion.
+description: NoSQLBooster for MongoDB (formerly MongoBooster) is a shell-centric cross-platform GUI tool for MongoDB v2.4-3.4, which provides fluent query builder, SQL query SQL Query, update-in-place, ES2017 syntax support and true intellisense experience.
 
 # image should be added to the img/ directory, ideally 370x200px
 img: mongobooster.png
 
 # Release Info
-latest_release_version: 4.0.2
-latest_release_date: 2017-08-20
+latest_release_version: 4.2.0
+latest_release_date: 2017-11-30
 
 # Github Info
 github_user: 
